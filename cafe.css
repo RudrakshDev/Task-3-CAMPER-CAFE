@@ -3,7 +3,7 @@ h1, h2, p {
   }
   
   body {
-    background-image: url(images/image.avif);
+    background-image: url(image/image.avif);
     background-size: cover;
     font-family: sans-serif;
     padding: 20px;
