@@ -8,7 +8,7 @@ CAMPER CAFE: A minimalist menu page showcasing our coffee delights. Built with H
 
 ## Contributing
 
-### If you'd like to contribute improvements to this Cat Photo App, you're welcome! Here's how:
+### If you'd like to contribute improvements to this CAMPER-CAFE, you're welcome! Here's how:
 
 1. Fork this repository: On GitHub, navigate to your forked copy of this repository. Click the "Fork" button in the top right corner.
 2. Clone your fork: Clone your forked repository to your local machine using Git. You can find instructions for cloning on the GitHub Help Docs https://github.com/git-guides/git-clone.
