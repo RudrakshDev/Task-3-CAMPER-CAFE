@@ -2,7 +2,7 @@
 CAMPER CAFE: A minimalist menu page showcasing our coffee delights. Built with HTML and CSS
 
 # Live Link
-https://rudrakshdev.github.io/Task-3-CAMPER-CAFE/
+https://rudrakshdev.github.io/Task-3-CAMPER-CAFE/index.html
 
 # Output
 ![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/ae04282c-5902-4fd9-8125-a030d8fa5634)
