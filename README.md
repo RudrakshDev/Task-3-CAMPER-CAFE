@@ -5,6 +5,8 @@ CAMPER CAFE: A minimalist menu page showcasing our coffee delights. Built with H
 https://rudrakshdev.github.io/Task-3-CAMPER-CAFE/
 
 # Output
+![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/ae04282c-5902-4fd9-8125-a030d8fa5634)
+
 ![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/a1ea0db3-bf48-4b10-a690-ebd7a3d17726)
 
 ## Contributing
