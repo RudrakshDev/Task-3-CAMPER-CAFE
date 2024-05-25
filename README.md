@@ -7,7 +7,7 @@ https://rudrakshdev.github.io/Task-3-CAMPER-CAFE/index.html
 # Output
 ![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/ae04282c-5902-4fd9-8125-a030d8fa5634)
 
-![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/a1ea0db3-bf48-4b10-a690-ebd7a3d17726)
+![image](https://github.com/RudrakshDev/Task-3-CAMPER-CAFE/assets/170597596/d1958b24-4b25-41ac-862c-4779723b42b1)
 
 ## Contributing
 
